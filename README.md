@@ -52,7 +52,7 @@ You should send us a [git patch](https://git-scm.com/docs/git-format-patch) file
 
 1.  Clone (do NOT fork) this repository to your machine:
 
-        $ git clone https://github.com/quintoandar/hello-devops.git
+        $ git clone 
 
 2.  Implement your solution and comit your changes locally:
 
